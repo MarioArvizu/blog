@@ -60,24 +60,27 @@
                             </div>
                         </div>
                     </form>
-                    <div class="form-group">
+                  
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-8 col-md-offset-2">
+      <div class="form-group">
                     <article class="block">
                     <i class="icon-social fa fa-twitter-official"></i>
                       <a class="btn btn-block btn-social btn-twitter">
-                            <span class="fa fa-twitter"></span> Sign in with Twitter
+                            <span class="fa fa-twitter"></span> Entrar con Twitter
                         </a>
                     </article><br>
                       <article class="block">
                     <i class="icon-social fa fa-facebook-official"></i>
                       <a class="btn btn-block btn-social btn-facebook">
-                            <span class="fa fa-facebook"></span> Sign in with facebook
+                            <span class="fa fa-facebook"></span> Entrar con Facebook
                         </a>
                     </article>
                     
                     </div>
-                </div>
-            </div>
-        </div>
     </div>
 </div>
 @endsection
