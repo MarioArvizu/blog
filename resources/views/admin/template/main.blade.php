@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="{{asset('plugins/chosen/chosen.css')}}">
     <link rel="stylesheet" href="{{asset('css/general.css')}}">
     <link rel="stylesheet" href="{{asset('plugins/trumbowyg/ui/trumbowyg.min.css') }}">
+    <link rel="stylesheet" href="{{asset('plugins/social/bootstrap-social.css')}}">
 </head>
 <body>
     @include('admin.template.partials.nav')

@@ -1,5 +1,5 @@
 @extends('layouts.app')
-
+<link rel="stylesheet" href="{{asset('plugins/social/bootstrap-social.css')}}">
 @section('content')
 <div class="container">
     <div class="row">
@@ -60,6 +60,15 @@
                             </div>
                         </div>
                     </form>
+                    <div class="form-group">
+                    <article class="block">
+                    <i class="icon-social fa fa-twitter-official"></i>
+                      <a class="btn btn-block btn-social btn-twitter">
+                            <span class="fa fa-twitter"></span> Sign in with Twitter
+                        </a>
+                    </article>
+                    
+                    </div>
                 </div>
             </div>
         </div>
