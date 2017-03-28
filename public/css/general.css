@@ -1,0 +1,11 @@
+.container {
+border: 2px solid lightslategray;
+border-radius: 10px;
+margin-top: 0px;
+margin-bottom: 15%;
+}
+
+
+.container {
+  flex: 1;
+}
