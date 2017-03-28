@@ -9,3 +9,11 @@ margin-bottom: 15%;
 .container {
   flex: 1;
 }
+
+.btn{
+  transition: 0.3;
+}
+
+.btn:hover{
+  transform: scale(1.1);
+}
