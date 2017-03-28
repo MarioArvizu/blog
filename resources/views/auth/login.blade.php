@@ -66,6 +66,12 @@
                       <a class="btn btn-block btn-social btn-twitter">
                             <span class="fa fa-twitter"></span> Sign in with Twitter
                         </a>
+                    </article><br>
+                      <article class="block">
+                    <i class="icon-social fa fa-facebook-official"></i>
+                      <a class="btn btn-block btn-social btn-facebook">
+                            <span class="fa fa-facebook"></span> Sign in with facebook
+                        </a>
                     </article>
                     
                     </div>
